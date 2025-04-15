@@ -299,7 +299,6 @@ class ColorSelector extends StatelessWidget {
     );
   }
 }
-
 class ScoreOverlay extends StatelessWidget {
   final int score;
 
